@@ -1,5 +1,5 @@
 #! /usr/bin/env bash
-# setup a mysql db in a docker container
+# setup a mysql db in a docker container test
 
 # install docker if it isn't already
 if ! sudo docker --version > /dev/null; then
